@@ -1,4 +1,4 @@
-# My Custom Programming Language
+# Haskell Programming Language
 This repository contains a custom programming language developed in Haskell. The language has been designed and implemented to achieve Turing completeness, demonstrating its ability to simulate a Turing machine and perform any computation describable through algorithms.
 # Features
 Turing Complete: Capable of executing any computation that can be expressed algorithmically.
