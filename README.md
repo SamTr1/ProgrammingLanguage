@@ -4,6 +4,12 @@ This repository contains a custom programming language developed in Haskell. The
 Turing Complete: Capable of executing any computation that can be expressed algorithmically.
 Haskell Implementation: Built entirely in Haskell, leveraging its powerful functional programming paradigm.
 Custom Language Design: Designed from the ground up with a unique syntax and set of features tailored to specific use cases.
+# Skills Utilized
+Haskell
+Algorithm
+Language Design
+Mathematics and Logic
+Documentation and Testing
 # Getting Started
 To explore this language's capabilities, clone the repository and follow the setup instructions in the README. Test cases and examples are provided to showcase its computational power and flexibility.
 
