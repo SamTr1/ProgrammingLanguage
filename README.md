@@ -6,4 +6,4 @@ Haskell Implementation: Built entirely in Haskell, leveraging its powerful funct
 Custom Language Design: Designed from the ground up with a unique syntax and set of features tailored to specific use cases.
 # Getting Started
 To explore this language's capabilities, clone the repository and follow the setup instructions in the README. Test cases and examples are provided to showcase its computational power and flexibility.
-This summary provides an overview of the project’s purpose, key features, and what users can expect when exploring the repository.
+
